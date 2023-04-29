@@ -11,5 +11,5 @@ old) to live a healthier and better life with the help of Solubify]
 - Feature 4: [BMI]
 
 https://user-images.githubusercontent.com/120631631/235304206-cb79b33f-4e52-4d77-9cf0-29e99bbf2633.mp4
-
-## Deployment Link:- kratin-assignment-awvq69ddz-sushobit.vercel.app
+ 
+[Deployment Link:-](kratin-assignment-awvq69ddz-sushobit.vercel.app)
