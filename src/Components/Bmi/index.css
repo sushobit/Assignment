@@ -1,0 +1,58 @@
+.container {
+    background-image: url('https://media.istockphoto.com/id/1190193494/photo/prescription-pills.jpg?s=612x612&w=0&k=20&c=8SRnYTlVYjDfDVLQMwRO0alckJqAsF1yXHye259xObQ=');
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(63, 60, 65);
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.bmicont {
+    background: radial-gradient(circle, #e67e22, #fff);
+    border-radius: 80px;
+    margin: 300px;
+    padding: 20px;
+}
+.input-wrapper {
+    font-size: 2rem;
+    font-weight: 500;
+}
+.inputclass {
+     margin: 20px;
+     font-size: 2rem;
+     padding: 10px;
+     color: rgb(117, 132, 146);
+     font-style: italic;
+     border-radius: 10px;
+     border-color: transparent;
+}
+.calculate-btn {
+    background-color: rgb(34, 163, 243);
+    border-radius: 20px;
+    padding: 20px;
+    border-radius: none;
+    border-style: solid;
+    border-color: rgb(34, 163, 243);
+    font-size: larger;
+}
+.result {
+    font-size: 2rem;
+    padding: 20px;
+    font-weight: 500;
+    padding-top: none;
+}
+
+@media screen and (max-width: 768px) { 
+    .bmicont {
+        background: radial-gradient(circle, #e67e22, #fff);
+        border-radius: 80px;
+        margin: 30px;
+        padding: fit-content;
+    }
+    .inputclass {
+        margin: 20px;
+        font-size: 2rem;
+        width: 110px;
+        padding: 10px;
+   }
+}

@@ -1,0 +1,54 @@
+.yogatopcontainer {
+    background-image: url('https://www.ommagazine.com/wp-content/uploads/2022/11/Untitled-design-2022-11-28T114408.013.png');
+    height: fit-content;
+    background-size:cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: rgb(98, 84, 84);
+    width: 100%;
+    height: 80vh;
+    font-size: 2rem; 
+    padding-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.yogavideocontainer {
+    background: radial-gradient(circle, #e67e22, #fff);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(71, 64, 64);
+    text-align: center;
+    margin-top: none;
+    padding: 20px;
+}
+.yogacard {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.ending {
+    font-style: italic;
+    margin: 80px;
+  }
+
+@media screen and (max-width: 768px) {
+    .yogatopcontainer {
+        font-size: 1rem;
+    }
+    .yogavideocontainer {
+        font-size: 1rem;
+    }
+    .ending {
+        font-style: italic;
+        margin: 80px;
+        font-size: 1rem;
+      }
+      .yogacard {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 750px;
+    }
+}
