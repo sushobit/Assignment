@@ -1,7 +1,7 @@
 # Kratin Assignment
 
 Helping Sunita Sharma (65+ years
-old) to live a healthier and better life with the help of Solubify
+old) to live a healthier and better life with the help of Salubify
 
 ## Features
 
